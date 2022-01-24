@@ -9,7 +9,7 @@ import {
   Image,
   TouchableOpacity,
 } from "react-native";
-import { Avatar, travelRoundImage } from "../../../assets/images";
+import { Avatar, travelRoundImage } from "../../assets/images";
 
 import IonicIcons from "react-native-vector-icons/Ionicons";
 
